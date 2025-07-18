@@ -1,0 +1,74 @@
+body {
+text-align: center;
+ background-image:url(https://7dniv.rv.ua/wp-content/uploads/2023/10/ie-ryba.jpeg)
+
+}
+
+h1{
+    margin-top: -10px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size:35px;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+h4{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+    background-color: blue;
+    border-color: blue;
+}
+
+.menu{
+    background-color:darkseagreen;
+    width: 80%;
+    margin-top: 3%;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.item p, .ITEM p{
+display: inline-block;
+font-family: sans-serif;
+font-style: italic;
+font-size: 25px;
+}
+
+.Live, .Die {
+color: black;
+}
+
+.lived, .Died{
+    text-align: left;
+    width: 75%;
+}
+
+.price{ 
+    text-align: right;
+width:25% ;
+}
+
+a{
+    color:navy
+}
+
+a:active{
+    color:white;
+}
+a:visited{
+    color:purple;
+}
+
+a:hover {
+  color:gray;
+}
